@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Release\CH08_Deadlocks.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Release\CH08_Deadlocks.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Release\CH08_Deadlocks.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Release\CH08_Deadlocks.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Release\CH08_Deadlocks.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Release\CH08_Deadlocks.pdb

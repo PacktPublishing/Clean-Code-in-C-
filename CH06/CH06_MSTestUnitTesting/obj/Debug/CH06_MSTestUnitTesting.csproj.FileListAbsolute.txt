@@ -1,0 +1,19 @@
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.pdb

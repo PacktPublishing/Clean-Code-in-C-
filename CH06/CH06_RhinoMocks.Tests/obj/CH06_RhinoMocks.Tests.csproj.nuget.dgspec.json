@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks.Tests\\CH06_RhinoMocks.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks.Tests\\CH06_RhinoMocks.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks.Tests\\CH06_RhinoMocks.Tests.csproj",
+        "projectName": "CH06_RhinoMocks.Tests",
+        "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks.Tests\\CH06_RhinoMocks.Tests.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj": {
+                "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "RhinoMocks": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj",
+        "projectName": "CH06_RhinoMocks",
+        "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "RhinoMocks": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

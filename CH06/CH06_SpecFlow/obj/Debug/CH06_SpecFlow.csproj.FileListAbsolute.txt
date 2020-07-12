@@ -1,0 +1,1513 @@
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.api.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\CommandLine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\CommandLine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\CommandLine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\CommandLine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Permissions.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\BoDi.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\CommandLine.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Permissions.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Common.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlow.Plus.Shared.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\StreamJsonRpc.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\FSharp.Core.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Cucumber.Messages.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Gherkin.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.ValueTuple.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Utf8Json.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll.config
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.api.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\CommandLine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\CommandLine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\CommandLine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\CommandLine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Permissions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\CommandLine.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Newtonsoft.Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Permissions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlow.Plus.Shared.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\StreamJsonRpc.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\FSharp.Core.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Cucumber.Messages.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Gherkin.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.ValueTuple.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Utf8Json.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.api.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\CommandLine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\CommandLine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\CommandLine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\CommandLine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Permissions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\CommandLine.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Permissions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlow.Plus.Shared.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\StreamJsonRpc.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\FSharp.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Cucumber.Messages.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Gherkin.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.ValueTuple.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Utf8Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.api.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\CommandLine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\CommandLine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\CommandLine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\CommandLine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Permissions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\BoDi.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\CommandLine.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Permissions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Common.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlow.Plus.Shared.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\StreamJsonRpc.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\FSharp.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Cucumber.Messages.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Gherkin.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.ValueTuple.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Utf8Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.api.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\CommandLine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\CommandLine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\CommandLine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\CommandLine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Threading.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\System.Security.Permissions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_0.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_0.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\BoDi.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\CommandLine.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\System.Security.Permissions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Common.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlow.Plus.Shared.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\StreamJsonRpc.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\FSharp.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Cucumber.Messages.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Gherkin.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Google.Protobuf.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.framework.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\System.ValueTuple.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\Utf8Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb

@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Release\CH08_RaceConditions.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Release\CH08_RaceConditions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Release\CH08_RaceConditions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Release\CH08_RaceConditions.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Release\CH08_RaceConditions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Release\CH08_RaceConditions.pdb

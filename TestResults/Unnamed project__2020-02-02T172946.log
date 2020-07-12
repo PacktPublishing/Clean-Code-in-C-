@@ -1,0 +1,44 @@
+﻿2020-02-02T17:29:46.8196702+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-02-02T17:29:46.8196702+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-02-02T17:29:46.8196702+00:00;VSTestExecutionThread;Info;TestAdapter Location: D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-02-02T17:29:46.8645505+00:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+2020-02-02T17:29:46.8655474+00:00;VSTestExecutionThread;Info;Output folder configured to "D:\_packtpub\Clean-Code-in-C-\TestResults" (default)
+2020-02-02T17:29:46.8655474+00:00;VSTestExecutionThread;Info;Profile: 
+2020-02-02T17:29:46.9094298+00:00;VSTestExecutionThread;Info;Log file path: D:\_packtpub\Clean-Code-in-C-\TestResults\Unnamed project__2020-02-02T172946.log
+2020-02-02T17:29:46.9263849+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-02-02T17:29:46.9413441+00:00;Thread#13;Info;Checking license
+2020-02-02T17:29:46.9722612+00:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2020-02-02T17:29:58.9735095+00:00;Thread#13;Info;Evaluation delay finished.
+2020-02-02T17:29:58.9794170+00:00;Thread#13;Info;License check completed
+2020-02-02T17:29:58.9794170+00:00;Thread#13;Info;starting test run
+2020-02-02T17:29:58.9963715+00:00;Thread#13;Info;Discovering target: Default
+2020-02-02T17:29:58.9973679+00:00;Thread#13;Info;Discovering tests from assembly: D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+2020-02-02T17:29:59.1040829+00:00;Thread#13;Info;Discovered tests from assembly: D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
+2020-02-02T17:29:59.1060768+00:00:Test Suite Dump
+2020-02-02T17:29:59.1080718+00:00:#0: Unnamed project/ - 
+2020-02-02T17:29:59.1080718+00:00:End: Test Suite Dump
+2020-02-02T17:29:59.1310093+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-02-02T17:29:59.1330044+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-02-02T17:29:59.1330044+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-02-02T17:29:59.1330044+00:00:Thread#0:Scheduler: No more tests for thread
+2020-02-02T17:29:59.1359972+00:00:Trying to cancel thread
+2020-02-02T17:29:59.1359972+00:00:Thread cancelled
+2020-02-02T17:29:59.1429781+00:00:Thread#-1:Scheduler: get next test for thread -1
+2020-02-02T17:29:59.1429781+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-02-02T17:29:59.1429781+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-02-02T17:29:59.1439794+00:00;Thread#13;Info;test run finished
+2020-02-02T17:29:59.1439794+00:00;Thread#13;Info;publishing test results
+2020-02-02T17:29:59.9408539+00:00;Thread#13;Info;test results published
+2020-02-02T17:29:59.9408539+00:00;Thread#13;Info;generating reports
+2020-02-02T17:30:00.0415763+00:00;Thread#13;Info;Starting external report generation process
+2020-02-02T17:30:02.0302585+00:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-02-02T17:30:02.0302585+00:00;Thread#13;Error;External program returned exit code '-2'
+2020-02-02T17:30:02.0302585+00:00;Thread#13;Info;Failed generating reports
+2020-02-02T17:30:02.0392342+00:00:Total: 0
+2020-02-02T17:30:02.0412289+00:00:Succeeded: 0
+2020-02-02T17:30:02.0412289+00:00:Ignored: 0
+2020-02-02T17:30:02.0422275+00:00:Pending: 0
+2020-02-02T17:30:02.0422275+00:00:Skipped: 0
+2020-02-02T17:30:02.0432237+00:00:Failed: 0
+2020-02-02T17:30:02.0522005+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

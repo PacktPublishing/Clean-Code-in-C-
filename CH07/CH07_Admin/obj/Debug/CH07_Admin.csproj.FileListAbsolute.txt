@@ -1,0 +1,30 @@
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.pdb

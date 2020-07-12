@@ -1,0 +1,26 @@
+D:\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.dll
+D:\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+D:\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
+D:\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
+D:\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH04\bin\Debug\CH4.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH04\bin\Debug\CH4.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.exe

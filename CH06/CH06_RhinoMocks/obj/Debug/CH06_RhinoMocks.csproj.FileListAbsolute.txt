@@ -1,0 +1,26 @@
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\Rhino.Mocks.dll
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csproj.CopyComplete
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\Rhino.Mocks.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csproj.CopyComplete
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\bin\Debug\Rhino.Mocks.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csproj.CopyComplete
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.pdb

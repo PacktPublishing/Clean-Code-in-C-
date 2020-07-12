@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOukUasL/CmhKjDti/2GPUSO5cHQuJTO6Qkz9UpaqedbE0lEra3yOCd8149kKm44aY1QXw3/nmjBqdkGHe/jgQ==",
+  "success": true,
+  "projectFilePath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jason\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\moq\\4.13.1\\moq.4.13.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

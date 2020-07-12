@@ -1,0 +1,30 @@
+E:\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.exe.config
+E:\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.pdb

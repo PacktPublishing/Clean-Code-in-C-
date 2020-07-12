@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.pdb

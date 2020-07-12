@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Release\CH08_ThreadSafety.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Release\CH08_ThreadSafety.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Release\CH08_ThreadSafety.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Release\CH08_ThreadSafety.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Release\CH08_ThreadSafety.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Release\CH08_ThreadSafety.pdb

@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Release\CH08_Immutability.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Release\CH08_Immutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Release\CH08_Immutability.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Release\CH08_Immutability.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Release\CH08_Immutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Release\CH08_Immutability.pdb

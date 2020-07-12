@@ -1,0 +1,7 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Release\CH09_Proxies.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Release\CH09_Proxies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Release\CH09_Proxies.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Release\CH09_Proxies.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Release\CH09_Proxies.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Release\CH09_Proxies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Release\CH09_Proxies.pdb

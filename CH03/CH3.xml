@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CH3</name>
+    </assembly>
+    <members>
+        <member name="T:CH3.Cohesion.Connection">
+            <summary>
+            This class demonstrates high cohesion,
+            and obeys the SRP.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.Connection.ConnectToDatasource">
+            <summary>
+            Establish a connection to a datasource.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.Connection.CloseConnectionToDataSource">
+            <summary>
+            Close the connection to the data source and release resources.
+            </summary>
+        </member>
+        <member name="T:CH3.Cohesion.LowCohesion">
+            <summary>
+            This is an example of low cohesion. The class can be broken
+            down into 3 classes that are more cohesive. Let us see the
+            multiple responsibilities of this class. They are:
+            
+            [1] Connecting to and disconnecting to a data source.
+            [2] Extracting and transforming data.
+            [3] Generating and printing a report.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.LowCohesion.ConnectToDatasource">
+            <summary>
+            Establish a connection to a datasource.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.LowCohesion.ExtractDataFromDataSource">
+            <summary>
+            Obtain the data for the report.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.LowCohesion.TransformDataForReport">
+            <summary>
+            Shape the data for the report.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.LowCohesion.AssignDataAndGenerateReport">
+            <summary>
+            Load the report and fill with data.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.LowCohesion.PrintReport">
+            <summary>
+            Print the report.
+            </summary>
+        </member>
+        <member name="M:CH3.Cohesion.LowCohesion.CloseConnectionToDataSource">
+            <summary>
+            Close the connection to the data source and release resources.
+            </summary>
+        </member>
+        <member name="T:CH3.Core.FileSystem.TextFile">
+            <summary>
+            Contains the methods for reading and writing strings to a text file.
+            </summary>
+        </member>
+        <member name="M:CH3.Core.FileSystem.TextFile.ReadTextFromFile(System.String)">
+            <summary>
+            Reads text from the text file.
+            </summary>
+            <param name="filename">The name of the text file to be opened and read.</param>
+            <returns>The text contained within the textfile.</returns>
+        </member>
+        <member name="M:CH3.Core.FileSystem.TextFile.SaveTextToFile(System.String,System.String)">
+            <summary>
+            Saves text to the tet file.
+            </summary>
+            <param name="text">The text to be written to the file.</param>
+            <param name="filename">The name of the file that the text is to be written too.</param>
+        </member>
+        <member name="T:CH3.Core.Security.Cryptography">
+            <summary>
+            Encrypts and decrypts provided strings based on the slected algorithm.
+            </summary>
+        </member>
+        <member name="M:CH3.Core.Security.Cryptography.DecryptString(System.String,CH3.Core.Security.SecurityAlgorithm)">
+            <summary>
+            Decrypts a string using the selected algorithm.
+            </summary>
+            <param name="text">The string to be decrypted.</param>
+            <param name="algorithm">
+            The cryptographic algorithm used to decrypt the string.
+            </param>
+            <returns>Decrypted string</returns>
+        </member>
+        <member name="M:CH3.Core.Security.Cryptography.EncryptString(System.String,CH3.Core.Security.SecurityAlgorithm)">
+            <summary>
+            Encrypts a string using the selected algorithm.
+            </summary>
+            <param name="text">The string to encrypt.</param>
+            <param name="algorithm">
+            The cryptographic algorithm used to encrypt the string.
+            </param>
+            <returns>Encrypted string</returns>
+        </member>
+        <member name="T:CH3.Core.Security.SecurityAlgorithm">
+            <summary>
+            Provides the available cryptographic options.
+            </summary>
+        </member>
+        <member name="F:CH3.Core.Security.SecurityAlgorithm.Aes">
+            <summary>
+            Use AES encryption
+            </summary>
+        </member>
+        <member name="F:CH3.Core.Security.SecurityAlgorithm.AesCng">
+            <summary>
+            Use AESCNG encryption.
+            </summary>
+        </member>
+        <member name="F:CH3.Core.Security.SecurityAlgorithm.MD5">
+            <summary>
+            Use MD5 encryption.
+            </summary>
+        </member>
+        <member name="F:CH3.Core.Security.SecurityAlgorithm.SHA256">
+            <summary>
+            Use SHA256 encryption
+            </summary>
+        </member>
+        <member name="T:CH3.Coupling.LooseCouplingA">
+            <summary>
+            This class demonstrates an example of loose coupling.
+            </summary>
+        </member>
+        <member name="F:CH3.Coupling.LooseCouplingA._name">
+            <summary>
+            The private modifier prevents access to the data member.
+            </summary>
+        </member>
+        <member name="P:CH3.Coupling.LooseCouplingA.Name">
+            <summary>
+            The property enables the data member to be indirectly accessed.
+            Validation takes place upon getting or setting the data member.
+            The internals can be changed without affecting the classes
+            that access it.
+            </summary>
+        </member>
+        <member name="T:CH3.Coupling.LooseCouplingB">
+            <summary>
+            This class demonstrates an example of loose coupling.
+            </summary>
+        </member>
+        <member name="M:CH3.Coupling.LooseCouplingB.#ctor">
+            <summary>
+            In the constructor it is not possile to access the _name property in
+            LooseCouplingA, and so we have loose coupling.
+            </summary>
+        </member>
+        <member name="T:CH3.Coupling.TightCouplingA">
+            <summary>
+            This class demonstrates tight coupling.
+            </summary>
+        </member>
+        <member name="F:CH3.Coupling.TightCouplingA._name">
+            <summary>
+            The instance variable _name is declared public.
+            </summary>
+            <remarks>
+            You should never do this. Instance variables should
+            always be private, and modified via the constructor,
+            properties or methods.
+            </remarks>
+        </member>
+        <member name="P:CH3.Coupling.TightCouplingA.Name">
+            <summary>
+            Gets and sets the name.
+            </summary>
+        </member>
+        <member name="T:CH3.Coupling.TightCouplingB">
+            <summary>
+            This class demonstrates tight coupling.
+            </summary>
+        </member>
+        <member name="M:CH3.Coupling.TightCouplingB.#ctor">
+            <summary>
+            This class demonstrates tight coupling.
+            </summary>
+        </member>
+    </members>
+</doc>

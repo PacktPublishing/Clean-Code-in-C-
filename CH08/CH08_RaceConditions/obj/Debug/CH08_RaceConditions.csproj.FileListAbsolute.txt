@@ -1,0 +1,19 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.pdb

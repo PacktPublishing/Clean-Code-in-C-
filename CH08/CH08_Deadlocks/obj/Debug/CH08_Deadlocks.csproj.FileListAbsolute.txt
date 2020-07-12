@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.pdb

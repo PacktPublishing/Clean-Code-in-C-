@@ -1,0 +1,13 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Release\netcoreapp3.0\CH3.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Release\netcoreapp3.0\CH3.deps.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Release\netcoreapp3.0\CH3.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Release\netcoreapp3.0\CH3.runtimeconfig.dev.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Release\netcoreapp3.0\CH3.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Release\netcoreapp3.0\CH3.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.AssemblyInfo.cs
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Release\netcoreapp3.0\CH3.genruntimeconfig.cache

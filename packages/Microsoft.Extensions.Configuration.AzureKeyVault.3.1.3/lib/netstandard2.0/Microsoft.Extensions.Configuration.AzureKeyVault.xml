@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Extensions.Configuration.AzureKeyVault</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions">
+            <summary>
+            Extension methods for registering <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationProvider"/> with <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,System.String,System.String)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">The Azure KeyVault uri.</param>
+            <param name="clientId">The application client id.</param>
+            <param name="clientSecret">The client secret to use for authentication.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,System.String,System.String,Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">The Azure KeyVault uri.</param>
+            <param name="clientId">The application client id.</param>
+            <param name="clientSecret">The client secret to use for authentication.</param>
+            <param name="manager">The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> instance used to control secret loading.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,System.String,System.Security.Cryptography.X509Certificates.X509Certificate2)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">Azure KeyVault uri.</param>
+            <param name="clientId">The application client id.</param>
+            <param name="certificate">The <see cref="T:System.Security.Cryptography.X509Certificates.X509Certificate2"/> to use for authentication.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,System.String,System.Security.Cryptography.X509Certificates.X509Certificate2,Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">Azure KeyVault uri.</param>
+            <param name="clientId">The application client id.</param>
+            <param name="certificate">The <see cref="T:System.Security.Cryptography.X509Certificates.X509Certificate2"/> to use for authentication.</param>
+            <param name="manager">The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> instance used to control secret loading.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">Azure KeyVault uri.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">Azure KeyVault uri.</param>
+            <param name="manager">The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> instance used to control secret loading.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,System.String,Microsoft.Azure.KeyVault.KeyVaultClient,Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="vault">Azure KeyVault uri.</param>
+            <param name="client">The <see cref="T:Microsoft.Azure.KeyVault.KeyVaultClient"/> to use for retrieving values.</param>
+            <param name="manager">The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> instance used to control secret loading.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions.AddAzureKeyVault(Microsoft.Extensions.Configuration.IConfigurationBuilder,Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions)">
+            <summary>
+            Adds an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationProvider"/> that reads configuration values from the Azure KeyVault.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <param name="options">The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions"/> to use.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions">
+            <summary>
+            Options class used by the <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVaultConfigurationExtensions"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.#ctor">
+            <summary>
+            Creates a new instance of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.#ctor(System.String,System.String,System.Security.Cryptography.X509Certificates.X509Certificate2)">
+            <summary>
+            Creates a new instance of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions"/>.
+            </summary>
+            <param name="vault">Azure KeyVault uri.</param>
+            <param name="clientId">The application client id.</param>
+            <param name="certificate">The <see cref="T:System.Security.Cryptography.X509Certificates.X509Certificate2"/> to use for authentication.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.#ctor(System.String)">
+            <summary>
+            Creates a new instance of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions"/>.
+            </summary>
+            <param name="vault">The Azure KeyVault uri.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Creates a new instance of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions"/>.
+            </summary>
+            <param name="vault">The Azure KeyVault uri.</param>
+            <param name="clientId">The application client id.</param>
+            <param name="clientSecret">The client secret to use for authentication.</param>
+        </member>
+        <member name="P:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.Client">
+            <summary>
+            Gets or sets the <see cref="T:Microsoft.Azure.KeyVault.KeyVaultClient"/> to use for retrieving values.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.Vault">
+            <summary>
+            Gets or sets the vault uri.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.Manager">
+            <summary>
+            Gets or sets the <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> instance used to control secret loading.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationOptions.ReloadInterval">
+            <summary>
+            Gets or sets the timespan to wait between attempts at polling the Azure KeyVault for changes. <code>null</code> to disable reloading.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationProvider">
+            <summary>
+            An AzureKeyVault based <see cref="T:Microsoft.Extensions.Configuration.ConfigurationProvider"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationProvider.#ctor(Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultClient,System.String,Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager,System.Nullable{System.TimeSpan})">
+            <summary>
+            Creates a new instance of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationProvider"/>.
+            </summary>
+            <param name="client">The <see cref="T:Microsoft.Azure.KeyVault.KeyVaultClient"/> to use for retrieving values.</param>
+            <param name="vault">Azure KeyVault uri.</param>
+            <param name="manager">The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> to use in managing values.</param>
+            <param name="reloadInterval">The timespan to wait in between each attempt at polling the Azure KeyVault for changes. Default is null which indicates no reloading.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationProvider.Load">
+            <summary>
+            Load secrets into this provider.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationProvider.Dispose">
+            <inheritdoc/>
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationSource">
+            <summary>
+            Represents Azure KeyVault secrets as an <see cref="T:Microsoft.Extensions.Configuration.IConfigurationSource"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.AzureKeyVaultConfigurationSource.Build(Microsoft.Extensions.Configuration.IConfigurationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.DefaultKeyVaultSecretManager">
+            <summary>
+            Default implementation of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> that loads all secrets
+            and replaces '--' with ':" in key names.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.DefaultKeyVaultSecretManager.GetKey(Microsoft.Azure.KeyVault.Models.SecretBundle)">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.DefaultKeyVaultSecretManager.Load(Microsoft.Azure.KeyVault.Models.SecretItem)">
+            <inheritdoc />
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultClient">
+            <summary>
+            Client class to perform cryptographic key operations and vault operations
+            against the Key Vault service.
+            Thread safety: This class is thread-safe.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultClient.GetSecretsAsync(System.String)">
+            <summary>List secrets in the specified vault</summary>
+            <param name="vault">The URL for the vault containing the secrets.</param>
+            <returns>A response message containing a list of secrets in the vault along with a link to the next page of secrets</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultClient.GetSecretAsync(System.String)">
+            <summary>Gets a secret.</summary>
+            <param name="secretIdentifier">The URL for the secret.</param>
+            <returns>A response message containing the secret</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultClient.GetSecretsNextAsync(System.String)">
+            <summary>List the next page of secrets</summary>
+            <param name="nextLink">nextLink value from a previous call to GetSecrets or GetSecretsNext</param>
+            <returns>A response message containing a list of secrets in the vault along with a link to the next page of secrets</returns>
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager">
+            <summary>
+            The <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager"/> instance used to control secret loading.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager.Load(Microsoft.Azure.KeyVault.Models.SecretItem)">
+            <summary>
+            Checks if <see cref="T:Microsoft.Azure.KeyVault.Models.SecretItem"/> value should be retrieved.
+            </summary>
+            <param name="secret">The <see cref="T:Microsoft.Azure.KeyVault.Models.SecretItem"/> instance.</param>
+            <returns><code>true</code> is secrets value should be loaded, otherwise <code>false</code>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.IKeyVaultSecretManager.GetKey(Microsoft.Azure.KeyVault.Models.SecretBundle)">
+            <summary>
+            Maps secret to a configuration key.
+            </summary>
+            <param name="secret">The <see cref="T:Microsoft.Azure.KeyVault.Models.SecretBundle"/> instance.</param>
+            <returns>Configuration key name to store secret value.</returns>
+        </member>
+        <member name="T:Microsoft.Extensions.Configuration.AzureKeyVault.KeyVaultClientWrapper">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.KeyVaultClientWrapper.#ctor(Microsoft.Azure.KeyVault.KeyVaultClient)">
+            <summary>
+            Creates a new instance of <see cref="T:Microsoft.Extensions.Configuration.AzureKeyVault.KeyVaultClientWrapper"/>.
+            </summary>
+            <param name="keyVaultClientImplementation">The <see cref="T:Microsoft.Azure.KeyVault.KeyVaultClient"/> instance to wrap.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.KeyVaultClientWrapper.GetSecretsAsync(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.KeyVaultClientWrapper.GetSecretAsync(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.AzureKeyVault.KeyVaultClientWrapper.GetSecretsNextAsync(System.String)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

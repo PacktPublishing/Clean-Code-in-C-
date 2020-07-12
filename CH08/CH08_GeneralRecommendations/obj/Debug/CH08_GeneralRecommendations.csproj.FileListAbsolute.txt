@@ -1,0 +1,19 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.pdb

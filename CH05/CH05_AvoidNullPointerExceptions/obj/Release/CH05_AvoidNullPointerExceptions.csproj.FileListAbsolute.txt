@@ -1,0 +1,7 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Release\CH05_AvoidNullPointerExceptions.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Release\CH05_AvoidNullPointerExceptions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Release\CH05_AvoidNullPointerExceptions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Release\CH05_AvoidNullPointerExceptions.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Release\CH05_AvoidNullPointerExceptions.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Release\CH05_AvoidNullPointerExceptions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Release\CH05_AvoidNullPointerExceptions.pdb

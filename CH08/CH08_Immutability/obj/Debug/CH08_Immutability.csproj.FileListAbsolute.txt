@@ -1,0 +1,42 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Buffers.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Collections.Immutable.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Memory.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Numerics.Vectors.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Buffers.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Collections.Immutable.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Memory.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Numerics.Vectors.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CopyComplete
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Buffers.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Collections.Immutable.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Memory.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Numerics.Vectors.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Buffers.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Collections.Immutable.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Memory.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Numerics.Vectors.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CopyComplete
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.pdb

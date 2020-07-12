@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.pdb

@@ -1,0 +1,25 @@
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb

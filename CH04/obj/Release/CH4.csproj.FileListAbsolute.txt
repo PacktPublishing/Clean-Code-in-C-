@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Release\CH4.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Release\CH4.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Release\CH4.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Release\CH4.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Release\CH4.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Release\CH4.pdb

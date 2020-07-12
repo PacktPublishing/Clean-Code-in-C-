@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Release\CH08_GeneralRecommendations.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Release\CH08_GeneralRecommendations.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Release\CH08_GeneralRecommendations.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Release\CH08_GeneralRecommendations.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Release\CH08_GeneralRecommendations.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Release\CH08_GeneralRecommendations.pdb

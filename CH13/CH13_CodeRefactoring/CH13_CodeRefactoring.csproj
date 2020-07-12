@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\packages\PostSharp.6.6.10\build\PostSharp.props" Condition="Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A203072-B52E-4A35-9807-9A13BE743D2F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CH13_CodeRefactoring</RootNamespace>
+    <AssemblyName>CH13_CodeRefactoring</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PostSharp, Version=6.6.10.0, Culture=neutral, PublicKeyToken=b13fd38b8f9c99d7, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\PostSharp.Redist.6.6.10\lib\net45\PostSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Linq, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\System.Linq.4.3.0\lib\net463\System.Linq.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ProblemCode\Addition.cs" />
+    <Compile Include="ProblemCode\Authorization.cs" />
+    <Compile Include="ProblemCode\ConcertBooking.cs" />
+    <Compile Include="ProblemCode\CyclomaticComplexity.cs" />
+    <Compile Include="ProblemCode\Dog.cs" />
+    <Compile Include="ProblemCode\DogOwner.cs" />
+    <Compile Include="ProblemCode\Authentication.cs" />
+    <Compile Include="ProblemCode\Mutant.cs" />
+    <Compile Include="ProblemCode\Oddball.cs" />
+    <Compile Include="ProblemCode\Report.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RefactoredCode\Adaptee.cs" />
+    <Compile Include="RefactoredCode\Adapter.cs" />
+    <Compile Include="RefactoredCode\Authentication.cs" />
+    <Compile Include="RefactoredCode\Authorization.cs" />
+    <Compile Include="RefactoredCode\Cat.cs" />
+    <Compile Include="RefactoredCode\Client.cs" />
+    <Compile Include="RefactoredCode\ConcertBooking.cs" />
+    <Compile Include="RefactoredCode\Dependency.cs" />
+    <Compile Include="RefactoredCode\Dog.cs" />
+    <Compile Include="RefactoredCode\Function.cs" />
+    <Compile Include="RefactoredCode\IPet.cs" />
+    <Compile Include="RefactoredCode\IReportFactory.cs" />
+    <Compile Include="RefactoredCode\IService.cs" />
+    <Compile Include="RefactoredCode\LeaversReport.cs" />
+    <Compile Include="RefactoredCode\LooselyCoupled.cs" />
+    <Compile Include="RefactoredCode\Maths.cs" />
+    <Compile Include="RefactoredCode\NewStartersReport.cs" />
+    <Compile Include="RefactoredCode\PetOwner.cs" />
+    <Compile Include="RefactoredCode\Report.cs" />
+    <Compile Include="RefactoredCode\ReportBase.cs" />
+    <Compile Include="RefactoredCode\ReportRunner.cs" />
+    <Compile Include="RefactoredCode\StaffShiftPatternReport.cs" />
+    <Compile Include="RefactoredCode\Target.cs" />
+    <Compile Include="RefactoredCode\TicketType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CH11\CrossCuttingConcerns\CrossCuttingConcerns\CrossCuttingConcerns.csproj">
+      <Project>{f4658c89-69f4-42fd-8e6e-a5983ec65668}</Project>
+      <Name>CrossCuttingConcerns</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\PostSharp.6.6.10\build\PostSharp.props'))" />
+    <Error Condition="!Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\PostSharp.6.6.10\build\PostSharp.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\PostSharp.6.6.10\build\PostSharp.targets" Condition="Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.targets')" />
+</Project>

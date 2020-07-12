@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Release\CH08_SynchronisedMethodDependencies.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Release\CH08_SynchronisedMethodDependencies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Release\CH08_SynchronisedMethodDependencies.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Release\CH08_SynchronisedMethodDependencies.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Release\CH08_SynchronisedMethodDependencies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Release\CH08_SynchronisedMethodDependencies.pdb

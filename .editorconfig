@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# RCS1163: Unused parameter.
+dotnet_diagnostic.RCS1163.severity = none
+
+# IDE0060: Remove unused parameter
+dotnet_code_quality_unused_parameters = non_public:none
+
+# IDE1006: Naming Styles
+dotnet_diagnostic.IDE1006.severity = none

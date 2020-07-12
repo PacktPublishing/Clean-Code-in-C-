@@ -1,0 +1,7 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Release\CH05_BusinessRuleExceptions.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Release\CH05_BusinessRuleExceptions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Release\CH05_BusinessRuleExceptions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Release\CH05_BusinessRuleExceptions.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Release\CH05_BusinessRuleExceptions.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Release\CH05_BusinessRuleExceptions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Release\CH05_BusinessRuleExceptions.pdb

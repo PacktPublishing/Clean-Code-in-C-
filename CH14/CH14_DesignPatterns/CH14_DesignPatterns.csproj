@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\packages\PostSharp.6.6.10\build\PostSharp.props" Condition="Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C09E10C-87D1-4CB8-A9E3-5B014731D386}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CH14_DesignPatterns</RootNamespace>
+    <AssemblyName>CH14_DesignPatterns</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PostSharp, Version=6.6.10.0, Culture=neutral, PublicKeyToken=b13fd38b8f9c99d7, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\PostSharp.Redist.6.6.10\lib\net45\PostSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Common, Version=6.6.10.0, Culture=neutral, PublicKeyToken=e7f631e6ce13f078, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\PostSharp.Patterns.Common.Redist.6.6.10\lib\net47\PostSharp.Patterns.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="PostSharp.Patterns.Diagnostics, Version=6.6.10.0, Culture=neutral, PublicKeyToken=e7f631e6ce13f078, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\PostSharp.Patterns.Diagnostics.Redist.6.6.10\lib\net47\PostSharp.Patterns.Diagnostics.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BehavioralDesignPatterns\ChainOfResponsibility\ConcreteHandlerOne.cs" />
+    <Compile Include="BehavioralDesignPatterns\ChainOfResponsibility\ConcreteHandlerTwo.cs" />
+    <Compile Include="BehavioralDesignPatterns\ChainOfResponsibility\Handler.cs" />
+    <Compile Include="BehavioralDesignPatterns\Command\Command.cs" />
+    <Compile Include="BehavioralDesignPatterns\Command\ConcreteCommand.cs" />
+    <Compile Include="BehavioralDesignPatterns\Command\Invoker.cs" />
+    <Compile Include="BehavioralDesignPatterns\Command\Receiver.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\AbstractFactory.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\AbstractProductA.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\AbstractProductB.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\Client.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\ConcreteProduct.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\ProductA.cs" />
+    <Compile Include="CreationalDesignPatterns\AbstractFactory\ProductB.cs" />
+    <Compile Include="CreationalDesignPatterns\Builder\Builder.cs" />
+    <Compile Include="CreationalDesignPatterns\Builder\ConcreteBuilder.cs" />
+    <Compile Include="CreationalDesignPatterns\Builder\Director.cs" />
+    <Compile Include="CreationalDesignPatterns\Builder\Product.cs" />
+    <Compile Include="CreationalDesignPatterns\Builder\StringConcatenation.cs" />
+    <Compile Include="CreationalDesignPatterns\Builder\TimeSpanExtensions.cs" />
+    <Compile Include="CreationalDesignPatterns\FactoryMethod\ConcreteCreator.cs" />
+    <Compile Include="CreationalDesignPatterns\FactoryMethod\ConcreteProduct.cs" />
+    <Compile Include="CreationalDesignPatterns\FactoryMethod\Creator.cs" />
+    <Compile Include="CreationalDesignPatterns\FactoryMethod\Product.cs" />
+    <Compile Include="CreationalDesignPatterns\Prototype\ConcretePrototype.cs" />
+    <Compile Include="CreationalDesignPatterns\Prototype\Prototype.cs" />
+    <Compile Include="CreationalDesignPatterns\Singleton\Singleton.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StructuralDesignPatterns\Bridge\Abstraction.cs" />
+    <Compile Include="StructuralDesignPatterns\Bridge\ConcreteImplementor.cs" />
+    <Compile Include="StructuralDesignPatterns\Bridge\Implementor.cs" />
+    <Compile Include="StructuralDesignPatterns\Bridge\RefinedAbstraction.cs" />
+    <Compile Include="StructuralDesignPatterns\Composite\Composite.cs" />
+    <Compile Include="StructuralDesignPatterns\Composite\IComponent.cs" />
+    <Compile Include="StructuralDesignPatterns\Composite\Leaf.cs" />
+    <Compile Include="StructuralDesignPatterns\Facade\Facade.cs" />
+    <Compile Include="StructuralDesignPatterns\Facade\SubsystemOne.cs" />
+    <Compile Include="StructuralDesignPatterns\Facade\SubsystemTwo.cs" />
+    <Compile Include="StructuralDesignPatterns\Flyweight\Client.cs" />
+    <Compile Include="StructuralDesignPatterns\Flyweight\ConcreteFlyweight.cs" />
+    <Compile Include="StructuralDesignPatterns\Flyweight\Flyweight.cs" />
+    <Compile Include="StructuralDesignPatterns\Flyweight\FlyweightFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BehavioralDesignPatterns\Interpreter\" />
+    <Folder Include="BehavioralDesignPatterns\Iterator\" />
+    <Folder Include="BehavioralDesignPatterns\Mediator\" />
+    <Folder Include="BehavioralDesignPatterns\Memento\" />
+    <Folder Include="BehavioralDesignPatterns\Observer\" />
+    <Folder Include="BehavioralDesignPatterns\State\" />
+    <Folder Include="BehavioralDesignPatterns\Strategy\" />
+    <Folder Include="BehavioralDesignPatterns\TemplateMethod\" />
+    <Folder Include="BehavioralDesignPatterns\Visitor\" />
+    <Folder Include="StructuralDesignPatterns\Adapter\" />
+    <Folder Include="StructuralDesignPatterns\Decorator\" />
+    <Folder Include="StructuralDesignPatterns\Proxy\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CH11\CrossCuttingConcerns\CrossCuttingConcerns\CrossCuttingConcerns.csproj">
+      <Project>{f4658c89-69f4-42fd-8e6e-a5983ec65668}</Project>
+      <Name>CrossCuttingConcerns</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\PostSharp.6.6.10\build\PostSharp.props'))" />
+    <Error Condition="!Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\PostSharp.6.6.10\build\PostSharp.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\PostSharp.6.6.10\build\PostSharp.targets" Condition="Exists('..\..\packages\PostSharp.6.6.10\build\PostSharp.targets')" />
+</Project>

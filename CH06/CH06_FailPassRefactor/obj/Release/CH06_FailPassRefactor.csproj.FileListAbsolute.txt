@@ -1,0 +1,11 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Release\CH06_FailPassRefactor.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Release\CH06_FailPassRefactor.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Release\CH06_FailPassRefactor.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Release\CH06_FailPassRefactor.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Release\nunit.framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Release\nunit.framework.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Release\nunit.framework.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Release\CH06_FailPassRefactor.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Release\CH06_FailPassRefactor.csproj.CopyComplete
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Release\CH06_FailPassRefactor.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Release\CH06_FailPassRefactor.pdb

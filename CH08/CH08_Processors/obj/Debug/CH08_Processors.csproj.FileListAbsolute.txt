@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.pdb

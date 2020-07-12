@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\bin\Release\CH05_CustomExceptions.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\bin\Release\CH05_CustomExceptions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\bin\Release\CH05_CustomExceptions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\obj\Release\CH05_CustomExceptions.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\obj\Release\CH05_CustomExceptions.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\obj\Release\CH05_CustomExceptions.pdb

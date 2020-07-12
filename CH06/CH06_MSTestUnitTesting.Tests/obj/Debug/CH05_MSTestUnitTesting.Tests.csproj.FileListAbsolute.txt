@@ -1,0 +1,14 @@
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\CH05_MSTestUnitTesting.Tests.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\CH05_MSTestUnitTesting.Tests.pdb
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\CH06_MSTestUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\CH06_MSTestUnitTesting.pdb
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\bin\Debug\CH06_MSTestUnitTesting.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\obj\Debug\CH05_MSTestUnitTesting.Tests.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\obj\Debug\CH05_MSTestUnitTesting.Tests.csproj.CopyComplete
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\obj\Debug\CH05_MSTestUnitTesting.Tests.dll
+D:\_packtpub\Clean-Code-in-C-\CH05_MSTestUnitTesting.Tests\obj\Debug\CH05_MSTestUnitTesting.Tests.pdb

@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Release\CH08_Mutability.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Release\CH08_Mutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Release\CH08_Mutability.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Release\CH08_Mutability.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Release\CH08_Mutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Release\CH08_Mutability.pdb

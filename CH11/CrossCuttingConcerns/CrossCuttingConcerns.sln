@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCuttingConcerns", "CrossCuttingConcerns\CrossCuttingConcerns.csproj", "{9E35DD7A-BB9B-43A3-BDE3-5A7B9CF75512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{015EE3FE-FE1E-48DE-B75E-259065EC1E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E35DD7A-BB9B-43A3-BDE3-5A7B9CF75512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E35DD7A-BB9B-43A3-BDE3-5A7B9CF75512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E35DD7A-BB9B-43A3-BDE3-5A7B9CF75512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E35DD7A-BB9B-43A3-BDE3-5A7B9CF75512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015EE3FE-FE1E-48DE-B75E-259065EC1E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015EE3FE-FE1E-48DE-B75E-259065EC1E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015EE3FE-FE1E-48DE-B75E-259065EC1E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015EE3FE-FE1E-48DE-B75E-259065EC1E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117FF611-E960-4344-8344-374C7E4C205C}
+	EndGlobalSection
+EndGlobal

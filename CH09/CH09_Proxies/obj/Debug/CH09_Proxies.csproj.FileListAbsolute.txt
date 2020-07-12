@@ -1,0 +1,19 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.pdb

@@ -1,0 +1,24 @@
+D:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe
+D:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.pdb
+D:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.exe
+D:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.pdb
+E:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe.config
+E:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe
+E:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.pdb
+E:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csprojAssemblyReference.cache
+E:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.exe
+E:\_packtpub\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.pdb

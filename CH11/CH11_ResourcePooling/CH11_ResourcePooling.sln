@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH11_ResourcePooling", "CH11_ResourcePooling.csproj", "{AAFFD0D1-BCC8-4936-8895-951C152BAD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFFD0D1-BCC8-4936-8895-951C152BAD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFFD0D1-BCC8-4936-8895-951C152BAD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFFD0D1-BCC8-4936-8895-951C152BAD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFFD0D1-BCC8-4936-8895-951C152BAD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB07B1F-E5CD-4BAC-B1F2-A052F0667509}
+	EndGlobalSection
+EndGlobal

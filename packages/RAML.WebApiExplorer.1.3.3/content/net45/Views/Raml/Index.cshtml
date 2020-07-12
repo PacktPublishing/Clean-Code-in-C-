@@ -1,0 +1,43 @@
+﻿@{
+    Layout = null;
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
+    <title>APIkit Console</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            font-size: 15px;
+            color: #424242;
+            height: 100%;
+        }
+
+        .api-dropdown {
+            --anypoint-dropdown-menu-background-color: #1c2831;
+            --anypoint-dropdown-menu-label-color: #fff;
+        }
+
+        .icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            fill: currentColor;
+        }
+    </style>
+</head>
+
+<body class="apic-container">
+    <input hidden id="specurl" name="specurl" value="@ViewData["url"]raml/raw" />
+    <input hidden id="spectype" name="spectype" value="raml" />
+    <script src="~/Scripts/package/build/vendor.js"></script>
+    <script src="~/Scripts/package/build/apic-import.js"></script>
+    <api-console-app id="api-console-app" app compatibility allowCustom selectedShape="summary" selectedShapeType="summary"></api-console-app>
+    <script type="text/javascript" src="~/Scripts/bundle.js"></script>
+</body>
+</html>

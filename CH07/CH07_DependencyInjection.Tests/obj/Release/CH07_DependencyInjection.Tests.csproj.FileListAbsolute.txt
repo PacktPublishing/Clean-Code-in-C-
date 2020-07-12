@@ -1,0 +1,16 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\CH07_DependencyInjection.Tests.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\CH07_DependencyInjection.Tests.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\CH07_DependencyInjection.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\CH07_DependencyInjection.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Release\CH07_DependencyInjection.Tests.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Release\CH07_DependencyInjection.Tests.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Release\CH07_DependencyInjection.Tests.csproj.CopyComplete
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Release\CH07_DependencyInjection.Tests.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Release\CH07_DependencyInjection.Tests.pdb

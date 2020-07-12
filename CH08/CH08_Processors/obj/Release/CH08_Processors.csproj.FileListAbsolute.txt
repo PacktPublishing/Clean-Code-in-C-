@@ -1,0 +1,7 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Release\CH08_Processors.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Release\CH08_Processors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Release\CH08_Processors.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Release\CH08_Processors.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Release\CH08_Processors.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Release\CH08_Processors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Release\CH08_Processors.pdb

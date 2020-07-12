@@ -1,0 +1,15 @@
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.pdb

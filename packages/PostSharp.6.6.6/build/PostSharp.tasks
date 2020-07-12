@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpDetectNativeFrameworkVersion" />
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpCompile" />
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpTouchWithDelay" />
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpCheckPfx" />
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpGetDirectory" />
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpMoveWithRetry"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpCopyWithRetry"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpShutdown"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpParseAssemblyNames"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpChangeAppConfig"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpGetPlugInSearchPath"/>
+  <!--<UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpSetupAppDomains"/>-->
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpValidateLanguageVersion"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpParseProjectAssets"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpDetectDotNetFxVersion"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpCopyBindingRedirects"/>
+  <UsingTask AssemblyFile="$(PostSharpMSBuildAssemblyPath)" TaskName="PostSharp.MSBuild.PostSharpExtractTools"/>
+</Project>

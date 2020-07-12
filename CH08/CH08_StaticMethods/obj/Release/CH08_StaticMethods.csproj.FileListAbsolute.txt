@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Release\CH08_StaticMethods.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Release\CH08_StaticMethods.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Release\CH08_StaticMethods.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Release\CH08_StaticMethods.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Release\CH08_StaticMethods.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Release\CH08_StaticMethods.pdb

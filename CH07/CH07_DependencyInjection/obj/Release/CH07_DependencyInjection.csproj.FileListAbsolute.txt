@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection\bin\Release\CH07_DependencyInjection.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection\bin\Release\CH07_DependencyInjection.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Release\CH07_DependencyInjection.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Release\CH07_DependencyInjection.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Release\CH07_DependencyInjection.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Release\CH07_DependencyInjection.pdb

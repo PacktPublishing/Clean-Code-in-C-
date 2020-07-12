@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.pdb

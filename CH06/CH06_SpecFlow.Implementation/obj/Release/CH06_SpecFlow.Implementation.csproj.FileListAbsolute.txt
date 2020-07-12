@@ -1,0 +1,5 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Release\CH06_SpecFlow.Implementation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Release\CH06_SpecFlow.Implementation.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Release\CH06_SpecFlow.Implementation.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Release\CH06_SpecFlow.Implementation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Release\CH06_SpecFlow.Implementation.pdb

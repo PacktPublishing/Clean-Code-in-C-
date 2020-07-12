@@ -1,0 +1,6 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Release\CH08_StaticConstructors.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Release\CH08_StaticConstructors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Release\CH08_StaticConstructors.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Release\CH08_StaticConstructors.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Release\CH08_StaticConstructors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Release\CH08_StaticConstructors.pdb

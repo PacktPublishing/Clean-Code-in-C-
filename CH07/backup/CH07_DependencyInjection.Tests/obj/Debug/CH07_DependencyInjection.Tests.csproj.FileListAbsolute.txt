@@ -1,0 +1,16 @@
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.Tests.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.Tests.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.CopyComplete
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.pdb

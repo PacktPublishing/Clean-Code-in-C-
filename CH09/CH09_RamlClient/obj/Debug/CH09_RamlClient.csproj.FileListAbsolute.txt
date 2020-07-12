@@ -1,0 +1,60 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\RAML.Api.Core.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.ComponentModel.Annotations.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CopyComplete
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\RAML.Api.Core.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.ComponentModel.Annotations.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.xml
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CopyComplete
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\RAML.Api.Core.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.ComponentModel.Annotations.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.xml
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CopyComplete
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.pdb

@@ -1,0 +1,25 @@
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb

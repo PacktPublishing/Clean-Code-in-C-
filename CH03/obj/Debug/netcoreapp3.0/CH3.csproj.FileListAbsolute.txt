@@ -1,0 +1,84 @@
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.exe
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.deps.json
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.dll
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.pdb
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.xml
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.dll
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.pdb
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+E:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+E:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+E:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+E:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+E:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+E:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+E:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+E:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+E:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+E:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+E:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache

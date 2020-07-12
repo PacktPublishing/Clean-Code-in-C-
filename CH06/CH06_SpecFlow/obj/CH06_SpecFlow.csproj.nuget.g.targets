@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\15.0.0\build\net45\Microsoft.Net.Test.Sdk.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\15.0.0\build\net45\Microsoft.Net.Test.Sdk.targets')" />
+    <Import Project="$(NuGetPackageRoot)specrun.runner\3.1.48\build\SpecRun.Runner.targets" Condition="Exists('$(NuGetPackageRoot)specrun.runner\3.1.48\build\SpecRun.Runner.targets')" />
+    <Import Project="$(NuGetPackageRoot)specflow\3.1.80\build\SpecFlow.targets" Condition="Exists('$(NuGetPackageRoot)specflow\3.1.80\build\SpecFlow.targets')" />
+    <Import Project="$(NuGetPackageRoot)specrun.specflow.3-1-0\3.1.48\build\SpecRun.SpecFlow.3-1-0.targets" Condition="Exists('$(NuGetPackageRoot)specrun.specflow.3-1-0\3.1.48\build\SpecRun.SpecFlow.3-1-0.targets')" />
+    <Import Project="$(NuGetPackageRoot)specflow.nunit\3.1.80\build\SpecFlow.NUnit.targets" Condition="Exists('$(NuGetPackageRoot)specflow.nunit\3.1.80\build\SpecFlow.NUnit.targets')" />
+  </ImportGroup>
+</Project>

@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.pdb

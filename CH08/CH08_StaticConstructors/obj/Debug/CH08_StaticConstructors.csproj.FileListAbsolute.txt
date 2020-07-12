@@ -1,0 +1,18 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.csproj.CoreCompileInputs.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe.config
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.pdb
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.csproj.CoreCompileInputs.cache
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.exe
+E:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe.config
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.pdb
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.csproj.CoreCompileInputs.cache
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.exe
+D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.pdb

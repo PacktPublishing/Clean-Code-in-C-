@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Azure.Identity</name>
+    </assembly>
+    <members>
+        <member name="T:Azure.Identity.AuthenticationFailedException">
+            <summary>
+            An exception class raised for errors in authenticating client requests.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.AuthenticationFailedException.#ctor(System.String)">
+            <summary>
+            Creates a new AuthenticationFailedException with the specified message.
+            </summary>
+            <param name="message">The message describing the authentication failure.</param>
+        </member>
+        <member name="M:Azure.Identity.AuthenticationFailedException.#ctor(System.String,System.Exception)">
+            <summary>
+            Creates a new AuthenticationFailedException with the specified message.
+            </summary>
+            <param name="message">The message describing the authentication failure.</param>
+            <param name="innerException">The exception underlying the authentication failure.</param>
+        </member>
+        <member name="T:Azure.Identity.AuthorizationCodeCredential">
+            <summary>
+            Authenticates by redeeming and authorization code previously obtained from Azure Active Directory.  See
+            https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow for more information
+            about the autorization code authentication flow.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.AuthorizationCodeCredential.#ctor">
+            <summary>
+            Protected constructor for mocking.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.AuthorizationCodeCredential.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Creates an instance of the ClientSecretCredential with the details needed to authenticate against Azure Active Directory with a prefetched authorization code.
+            </summary>
+            <param name="tenantId">The Azure Active Directory tenant (directory) Id of the service principal.</param>
+            <param name="clientId">The client (application) ID of the service principal</param>
+            <param name="clientSecret">A client secret that was generated for the App Registration used to authenticate the client.</param>
+            <param name="authorizationCode">The authorization code obtained from a call to authorize. The code should be obtained with all required scopes.
+            See https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow for more information.</param>
+        </member>
+        <member name="M:Azure.Identity.AuthorizationCodeCredential.#ctor(System.String,System.String,System.String,System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates an instance of the ClientSecretCredential with the details needed to authenticate against Azure Active Directory with a prefetched authorization code.
+            </summary>
+            <param name="tenantId">The Azure Active Directory tenant (directory) Id of the service principal.</param>
+            <param name="clientId">The client (application) ID of the service principal</param>
+            <param name="clientSecret">A client secret that was generated for the App Registration used to authenticate the client.</param>
+            <param name="authorizationCode">The authorization code obtained from a call to authorize. The code should be obtained with all required scopes.
+            See https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow for more information.</param>
+            <param name="options">Options that allow to configure the management of the requests sent to the Azure Active Directory service.</param>
+        </member>
+        <member name="M:Azure.Identity.AuthorizationCodeCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified authorization code authenticate. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.AuthorizationCodeCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified authorization code authenticate. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="T:Azure.Identity.ChainedTokenCredential">
+            <summary>
+            Provides a <see cref="T:Azure.Core.TokenCredential"/> implementation which chains multiple <see cref="T:Azure.Core.TokenCredential"/> implementations to be tried in order
+            until one of the getToken methods returns a non-default <see cref="T:Azure.Core.AccessToken"/>.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ChainedTokenCredential.#ctor(Azure.Core.TokenCredential[])">
+            <summary>
+            Creates an instance with the specified <see cref="T:Azure.Core.TokenCredential"/> sources.
+            </summary>
+            <param name="sources">The ordered chain of <see cref="T:Azure.Core.TokenCredential"/> implementations to tried when calling <see cref="M:Azure.Identity.ChainedTokenCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)"/> or <see cref="M:Azure.Identity.ChainedTokenCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)"/></param>
+        </member>
+        <member name="M:Azure.Identity.ChainedTokenCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Sequentially calls <see cref="M:Azure.Core.TokenCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)"/> on all the specified sources, returning the first successfully obtained <see cref="T:Azure.Core.AccessToken"/>. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>The first <see cref="T:Azure.Core.AccessToken"/> returned by the specified sources. Any credential which raises a <see cref="T:Azure.Identity.CredentialUnavailableException"/> will be skipped.</returns>
+        </member>
+        <member name="M:Azure.Identity.ChainedTokenCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Sequentially calls <see cref="M:Azure.Core.TokenCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)"/> on all the specified sources, returning the first successfully obtained <see cref="T:Azure.Core.AccessToken"/>. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>The first <see cref="T:Azure.Core.AccessToken"/> returned by the specified sources. Any credential which raises a <see cref="T:Azure.Identity.CredentialUnavailableException"/> will be skipped.</returns>
+        </member>
+        <member name="T:Azure.Identity.ClientCertificateCredential">
+            <summary>
+            Enables authentication of a service principal in to Azure Active Directory using a X509 certificate that is assigned to it's App Registration. More information
+            on how to configure certificate authentication can be found here:
+            https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-certificate-credentials#register-your-certificate-with-azure-ad
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.ClientCertificateCredential.TenantId">
+            <summary>
+            Gets the Azure Active Directory tenant (directory) Id of the service principal
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.ClientCertificateCredential.ClientId">
+            <summary>
+            Gets the client (application) ID of the service principal
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.ClientCertificateCredential.ClientCertificate">
+            <summary>
+            Gets the authentication X509 Certificate of the service principal
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ClientCertificateCredential.#ctor">
+            <summary>
+            Protected constructor for mocking.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ClientCertificateCredential.#ctor(System.String,System.String,System.Security.Cryptography.X509Certificates.X509Certificate2)">
+            <summary>
+            Creates an instance of the ClientCertificateCredential with the details needed to authenticate against Azure Active Directory with the specified certificate.
+            </summary>
+            <param name="tenantId">The Azure Active Directory tenant (directory) Id of the service principal.</param>
+            <param name="clientId">The client (application) ID of the service principal</param>
+            <param name="clientCertificate">The authentication X509 Certificate of the service principal</param>
+        </member>
+        <member name="M:Azure.Identity.ClientCertificateCredential.#ctor(System.String,System.String,System.Security.Cryptography.X509Certificates.X509Certificate2,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates an instance of the ClientCertificateCredential with the details needed to authenticate against Azure Active Directory with the specified certificate.
+            </summary>
+            <param name="tenantId">The Azure Active Directory tenant (directory) Id of the service principal.</param>
+            <param name="clientId">The client (application) ID of the service principal</param>
+            <param name="clientCertificate">The authentication X509 Certificate of the service principal</param>
+            <param name="options">Options that allow to configure the management of the requests sent to the Azure Active Directory service.</param>
+        </member>
+        <member name="M:Azure.Identity.ClientCertificateCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified X509 certificate to authenticate. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.ClientCertificateCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified X509 certificate to authenticate. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="T:Azure.Identity.ClientSecretCredential">
+            <summary>
+            Enables authentication to Azure Active Directory using a client secret that was generated for an App Registration. More information on how
+            to configure a client secret can be found here:
+            https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-access-web-apis#add-credentials-to-your-web-application
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.ClientSecretCredential.TenantId">
+            <summary>
+            Gets the Azure Active Directory tenant (directory) Id of the service principal
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.ClientSecretCredential.ClientId">
+            <summary>
+            Gets the client (application) ID of the service principal
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.ClientSecretCredential.ClientSecret">
+            <summary>
+            Gets the client secret that was generated for the App Registration used to authenticate the client.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ClientSecretCredential.#ctor">
+            <summary>
+            Protected constructor for mocking.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ClientSecretCredential.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Creates an instance of the ClientSecretCredential with the details needed to authenticate against Azure Active Directory with a client secret.
+            </summary>
+            <param name="tenantId">The Azure Active Directory tenant (directory) Id of the service principal.</param>
+            <param name="clientId">The client (application) ID of the service principal</param>
+            <param name="clientSecret">A client secret that was generated for the App Registration used to authenticate the client.</param>
+        </member>
+        <member name="M:Azure.Identity.ClientSecretCredential.#ctor(System.String,System.String,System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates an instance of the ClientSecretCredential with the details needed to authenticate against Azure Active Directory with a client secret.
+            </summary>
+            <param name="tenantId">The Azure Active Directory tenant (directory) Id of the service principal.</param>
+            <param name="clientId">The client (application) ID of the service principal</param>
+            <param name="clientSecret">A client secret that was generated for the App Registration used to authenticate the client.</param>
+            <param name="options">Options that allow to configure the management of the requests sent to the Azure Active Directory service.</param>
+        </member>
+        <member name="M:Azure.Identity.ClientSecretCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified client secret to authenticate. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.ClientSecretCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified client secret to authenticate. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="T:Azure.Identity.CredentialUnavailableException">
+            <summary>
+            An exception indicating a <see cref="T:Azure.Core.TokenCredential"/> did not attempt to authenticate and retrieve <see cref="T:Azure.Core.AccessToken"/>, as its prerequisite information or state was not available.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.CredentialUnavailableException.#ctor(System.String)">
+            <summary>
+            Creates a new <see cref="T:Azure.Identity.CredentialUnavailableException"/> with the specified message.
+            </summary>
+            <param name="message">The message describing the authentication failure.</param>
+        </member>
+        <member name="M:Azure.Identity.CredentialUnavailableException.#ctor(System.String,System.Exception)">
+            <summary>
+            Creates a new <see cref="T:Azure.Identity.CredentialUnavailableException"/> with the specified message.
+            </summary>
+            <param name="message">The message describing the authentication failure.</param>
+            <param name="innerException">The exception underlying the authentication failure.</param>
+        </member>
+        <member name="T:Azure.Identity.DefaultAzureCredential">
+            <summary>
+            Provides a default <see cref="T:Azure.Core.TokenCredential"/> authentication flow for applications that will be deployed to Azure.  The following credential
+            types if enabled will be tried, in order:
+            <list type="bullet">
+            <item><description><see cref="T:Azure.Identity.EnvironmentCredential"/></description></item>
+            <item><description><see cref="T:Azure.Identity.ManagedIdentityCredential"/></description></item>
+            <item><description><see cref="T:Azure.Identity.SharedTokenCacheCredential"/></description></item>
+            <item><description><see cref="T:Azure.Identity.InteractiveBrowserCredential"/></description></item>
+            </list>
+            Consult the documentation of these credential types for more information on how they attempt authentication.
+            </summary>
+            <remarks>
+            Note that credentials requiring user interaction, such as the <see cref="T:Azure.Identity.InteractiveBrowserCredential"/>, are not included by default. Callers must explicitly enable this when
+            constructing the <see cref="T:Azure.Identity.DefaultAzureCredential"/> either by setting the includeInteractiveCredentials parameter to true, or the setting the
+            <see cref="P:Azure.Identity.DefaultAzureCredentialOptions.ExcludeInteractiveBrowserCredential"/> property to false when passing <see cref="T:Azure.Identity.DefaultAzureCredentialOptions"/>.
+            </remarks>
+        </member>
+        <member name="M:Azure.Identity.DefaultAzureCredential.#ctor(System.Boolean)">
+            <summary>
+            Creates an instance of the DefaultAzureCredential class.
+            </summary>
+            <param name="includeInteractiveCredentials">Specifies whether credentials requiring user interaction will be included in the default authentication flow.</param>
+        </member>
+        <member name="M:Azure.Identity.DefaultAzureCredential.#ctor(Azure.Identity.DefaultAzureCredentialOptions)">
+            <summary>
+            Creates an instance of the <see cref="T:Azure.Identity.DefaultAzureCredential"/> class.
+            </summary>
+            <param name="options">Options that configure the management of the requests sent to Azure Active Directory services, and determine which credentials are included in the <see cref="T:Azure.Identity.DefaultAzureCredential"/> authentication flow.</param>
+        </member>
+        <member name="M:Azure.Identity.DefaultAzureCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Sequentially calls <see cref="M:Azure.Core.TokenCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)"/> on all the included credentials in the order <see cref="T:Azure.Identity.EnvironmentCredential"/>, <see cref="T:Azure.Identity.ManagedIdentityCredential"/>, <see cref="T:Azure.Identity.SharedTokenCacheCredential"/>,
+            and <see cref="T:Azure.Identity.InteractiveBrowserCredential"/> returning the first successfully obtained <see cref="T:Azure.Core.AccessToken"/>. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <remarks>
+            Note that credentials requiring user interaction, such as the <see cref="T:Azure.Identity.InteractiveBrowserCredential"/>, are not included by default.
+            </remarks>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>The first <see cref="T:Azure.Core.AccessToken"/> returned by the specified sources. Any credential which raises a <see cref="T:Azure.Identity.CredentialUnavailableException"/> will be skipped.</returns>
+        </member>
+        <member name="M:Azure.Identity.DefaultAzureCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Sequentially calls <see cref="M:Azure.Core.TokenCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)"/> on all the included credentials in the order <see cref="T:Azure.Identity.EnvironmentCredential"/>, <see cref="T:Azure.Identity.ManagedIdentityCredential"/>, <see cref="T:Azure.Identity.SharedTokenCacheCredential"/>,
+            and <see cref="T:Azure.Identity.InteractiveBrowserCredential"/> returning the first successfully obtained <see cref="T:Azure.Core.AccessToken"/>. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <remarks>
+            Note that credentials requiring user interaction, such as the <see cref="T:Azure.Identity.InteractiveBrowserCredential"/>, are not included by default.
+            </remarks>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>The first <see cref="T:Azure.Core.AccessToken"/> returned by the specified sources. Any credential which raises a <see cref="T:Azure.Identity.CredentialUnavailableException"/> will be skipped.</returns>
+        </member>
+        <member name="T:Azure.Identity.DefaultAzureCredentialOptions">
+            <summary>
+            Options to configure the <see cref="T:Azure.Identity.DefaultAzureCredential"/> authentication flow and requests made to Azure Identity services.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.InteractiveBrowserTenantId">
+            <summary>
+            The tenant id of the user to authenticate, in the case the <see cref="T:Azure.Identity.DefaultAzureCredential"/> authenticates through, the
+            <see cref="T:Azure.Identity.InteractiveBrowserCredential"/>. The default is null and will authenticate users to their default tenant.
+            The value can also be set by setting the environment variable AZURE_TENANT_ID.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.SharedTokenCacheTenantId">
+            <summary>
+            Specifies the tenant id of the preferred authentication account, to be retrieved from the shared token cache for single sign on authentication with
+            development tools, in the case multiple accounts are found in the shared token.
+            </summary>
+            <remarks>
+            If multiple accounts are found in the shared token cache and no value is specified, or the specified value matches no accounts in
+            the cache the SharedTokenCacheCredential will not be used for authentication.
+            </remarks>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.SharedTokenCacheUsername">
+            <summary>
+            Specifies the preferred authentication account to be retrieved from the shared token cache for single sign on authentication with
+            development tools. In the case multiple accounts are found in the shared token.
+            </summary>
+            <remarks>
+            If multiple accounts are found in the shared token cache and no value is specified, or the specified value matches no accounts in
+            the cache the SharedTokenCacheCredential will not be used for authentication.
+            </remarks>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.ManagedIdentityClientId">
+            <summary>
+            Specifies the client id of the azure ManagedIdentity in the case of user assigned identity.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.ExcludeEnvironmentCredential">
+            <summary>
+            Specifies whether the <see cref="T:Azure.Identity.EnvironmentCredential"/> will be excluded from the authentication flow. Setting to true disables reading
+            authentication details from the process' environment variables.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.ExcludeManagedIdentityCredential">
+            <summary>
+            Specifies whether the <see cref="T:Azure.Identity.ManagedIdentityCredential"/> will be excluded from the <see cref="T:Azure.Identity.DefaultAzureCredential"/> authentication flow.
+            Setting to true disables authenticating with managed identity endpoints.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.ExcludeSharedTokenCacheCredential">
+            <summary>
+            Specifies whether the <see cref="T:Azure.Identity.SharedTokenCacheCredential"/> will be excluded from the <see cref="T:Azure.Identity.DefaultAzureCredential"/> authentication flow.
+            Setting to true disables single sign on authentication with development tools which write to the shared token cache.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DefaultAzureCredentialOptions.ExcludeInteractiveBrowserCredential">
+            <summary>
+            Specifies whether the <see cref="T:Azure.Identity.InteractiveBrowserCredential"/> will be excluded from the <see cref="T:Azure.Identity.DefaultAzureCredential"/> authentication flow.
+            Setting to true disables launching the default system browser to authenticate in development environments.
+            </summary>
+        </member>
+        <member name="T:Azure.Identity.DeviceCodeCredential">
+            <summary>
+            A <see cref="T:Azure.Core.TokenCredential"/> implementation which authenticates a user using the device code flow, and provides access tokens for that user account.
+            For more information on the device code authentication flow see https://github.com/AzureAD/microsoft-authentication-library-for-dotnet/wiki/Device-Code-Flow.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.DeviceCodeCredential.#ctor">
+            <summary>
+            Protected constructor for mocking
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.DeviceCodeCredential.#ctor(System.Func{Azure.Identity.DeviceCodeInfo,System.Threading.CancellationToken,System.Threading.Tasks.Task},System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates a new DeviceCodeCredential with the specifeid options, which will authenticate users with the specified application.
+            </summary>
+            <param name="deviceCodeCallback">The callback to be executed to display the device code to the user</param>
+            <param name="clientId">The client id of the application to which the users will authenticate</param>
+            <param name="options">The client options for the newly created DeviceCodeCredential</param>
+        </member>
+        <member name="M:Azure.Identity.DeviceCodeCredential.#ctor(System.Func{Azure.Identity.DeviceCodeInfo,System.Threading.CancellationToken,System.Threading.Tasks.Task},System.String,System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates a new DeviceCodeCredential with the specifeid options, which will authenticate users with the specified application.
+            </summary>
+            <param name="deviceCodeCallback">The callback to be executed to display the device code to the user</param>
+            <param name="tenantId">The tenant id of the application to which users will authenticate.  This can be null for multi-tenanted applications.</param>
+            <param name="clientId">The client id of the application to which the users will authenticate</param>
+            <param name="options">The client options for the newly created DeviceCodeCredential</param>
+        </member>
+        <member name="M:Azure.Identity.DeviceCodeCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token for a user account, authenticating them through the device code authentication flow. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.DeviceCodeCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token for a user account, authenticating them through the device code authentication flow. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="T:Azure.Identity.DeviceCodeInfo">
+            <summary>
+            Details of the device code to present to a user to allow them to authenticate through the device code authentication flow.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.UserCode">
+            <summary>
+            User code returned by the service
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.DeviceCode">
+            <summary>
+            Device code returned by the service
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.VerificationUri">
+            <summary>
+            Verification URL where the user must navigate to authenticate using the device code and credentials.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.ExpiresOn">
+            <summary>
+            Time when the device code will expire.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.Message">
+            <summary>
+            User friendly text response that can be used for display purpose.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.ClientId">
+            <summary>
+            Identifier of the client requesting device code.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.DeviceCodeInfo.Scopes">
+            <summary>
+            List of the scopes that would be held by token.
+            </summary>
+        </member>
+        <member name="T:Azure.Identity.EnvironmentCredential">
+            <summary>
+            Enables authentication to Azure Active Directory using client secret, or username and password,
+            details configured in the following environment variables:
+            <list type="table">
+            <listheader><term>Variable</term><description>Description</description></listheader>
+            <item><term>AZURE_TENANT_ID</term><description>The Azure Active Directory tenant(directory) ID.</description></item>
+            <item><term>AZURE_CLIENT_ID</term><description>The client(application) ID of an App Registration in the tenant.</description></item>
+            <item><term>AZURE_CLIENT_SECRET</term><description>A client secret that was generated for the App Registration.</description></item>
+            <item><term>AZURE_USERNAME</term><description>The username, also known as upn, of an Azure Active Directory user account.</description></item>
+            <item><term>AZURE_PASSWORD</term><description>The password of the Azure Active Directory user account. Note this does not support accounts with MFA enabled.</description></item>
+            </list>
+            This credential ultimately uses a <see cref="T:Azure.Identity.ClientSecretCredential"/> or <see cref="T:Azure.Identity.UsernamePasswordCredential"/> to
+            perform the authentication using these details. Please consult the
+            documentation of that class for more details.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.EnvironmentCredential.#ctor">
+            <summary>
+            Creates an instance of the EnvironmentCredential class and reads client secret details from environment variables.
+            If the expected environment variables are not found at this time, the GetToken method will return the default <see cref="T:Azure.Core.AccessToken"/> when invoked.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.EnvironmentCredential.#ctor(Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates an instance of the EnvironmentCredential class and reads client secret details from environment variables.
+            If the expected environment variables are not found at this time, the GetToken method will return the default <see cref="T:Azure.Core.AccessToken"/> when invoked.
+            </summary>
+            <param name="options">Options that allow to configure the management of the requests sent to the Azure Active Directory service.</param>
+        </member>
+        <member name="M:Azure.Identity.EnvironmentCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified client details specified in the environment variables
+            AZURE_TENANT_ID, AZURE_CLIENT_ID, and AZURE_CLIENT_SECRET or AZURE_USERNAME and AZURE_PASSWORD to authenticate.
+            This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <remarks>
+            If the environment variables AZURE_TENANT_ID, AZURE_CLIENT_ID, and AZURE_CLIENT_SECRET are not specified, the default <see cref="T:Azure.Core.AccessToken"/>
+            </remarks>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.EnvironmentCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token from the Azure Active Directory service, using the specified client details specified in the environment variables
+            AZURE_TENANT_ID, AZURE_CLIENT_ID, and AZURE_CLIENT_SECRET or AZURE_USERNAME and AZURE_PASSWORD to authenticate.
+            This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <remarks>
+            If the environment variables AZURE_TENANT_ID, AZURE_CLIENT_ID, and AZURE_CLIENT_SECRET are not specifeid, the default <see cref="T:Azure.Core.AccessToken"/>
+            </remarks>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls, or a default <see cref="T:Azure.Core.AccessToken"/>.</returns>
+        </member>
+        <member name="T:Azure.Identity.HttpPipelineClientFactory">
+            <summary>
+            This class is an HttpClient factory which creates an HttpClient which delegates it's transport to an HttpPipeline, to enable MSAL to send requests through an Azure.Core HttpPipeline.
+            </summary>
+        </member>
+        <member name="T:Azure.Identity.HttpPipelineClientFactory.PipelineHttpMessageHandler">
+            <summary>
+            An HttpMessageHandler which delegates SendAsync to a specified HttpPipeline.
+            </summary>
+        </member>
+        <member name="T:Azure.Identity.InteractiveBrowserCredential">
+            <summary>
+            A <see cref="T:Azure.Core.TokenCredential"/> implementation which launches the system default browser to interactively authenticate a user, and obtain an access token.
+            The browser will only be launched to authenticate the user once, then will silently acquire access tokens through the users refresh token as long as it's valid.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.InteractiveBrowserCredential.#ctor">
+            <summary>
+            Creates a new InteractiveBrowserCredential with the specified options, which will authenticate users.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.InteractiveBrowserCredential.#ctor(System.String)">
+            <summary>
+            Creates a new InteractiveBrowserCredential with the specified options, which will authenticate users with the specified application.
+            </summary>
+            <param name="clientId">The client id of the application to which the users will authenticate</param>
+        </member>
+        <member name="M:Azure.Identity.InteractiveBrowserCredential.#ctor(System.String,System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates a new InteractiveBrowserCredential with the specified options, which will authenticate users with the specified application.
+            </summary>
+            <param name="tenantId">The tenant id of the application and the users to authenticate. Can be null in the case of multi-tenant applications.</param>
+            <param name="clientId">The client id of the application to which the users will authenticate</param>
+            TODO: need to link to info on how the application has to be created to authenticate users, for multiple applications
+            <param name="options">The client options for the newly created DeviceCodeCredential</param>
+        </member>
+        <member name="M:Azure.Identity.InteractiveBrowserCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains an <see cref="T:Azure.Core.AccessToken"/> token for a user account silently if the user has already authenticated, otherwise the default browser is launched to authenticate the user. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.InteractiveBrowserCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains an <see cref="T:Azure.Core.AccessToken"/> token for a user account silently if the user has already authenticated, otherwise the default browser is launched to authenticate the user. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="T:Azure.Identity.ManagedIdentityCredential">
+            <summary>
+            Attempts authentication using a managed identity that has been assigned to the deployment environment.This authentication type works in Azure VMs,
+            App Service and Azure Functions applications, as well as inside of Azure Cloud Shell. More information about configuring managed identities can be found here:
+            https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ManagedIdentityCredential.#ctor">
+            <summary>
+            Protected constructor for mocking.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.ManagedIdentityCredential.#ctor(System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates an instance of the ManagedIdentityCredential capable of authenticating a resource with a managed identity.
+            </summary>
+            <param name="clientId">
+            The client id to authenticate for a user assigned managed identity.  More information on user assigned managed identities cam be found here:
+            https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview#how-a-user-assigned-managed-identity-works-with-an-azure-vm
+            </param>
+            <param name="options">Options that allow to configure the management of the requests sent to the Azure Active Directory service.</param>
+        </member>
+        <member name="M:Azure.Identity.ManagedIdentityCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains an <see cref="T:Azure.Core.AccessToken"/> from the Managed Identity service if available. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls, or a default <see cref="T:Azure.Core.AccessToken"/> if no managed identity is available.</returns>
+        </member>
+        <member name="M:Azure.Identity.ManagedIdentityCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains an <see cref="T:Azure.Core.AccessToken"/> from the Managed Identity service if available. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls, or a default <see cref="T:Azure.Core.AccessToken"/> if no managed identity is available.</returns>
+        </member>
+        <member name="T:Azure.Identity.SharedTokenCacheCredential">
+            <summary>
+            Authenticates using tokens in the local cache shared between Microsoft applications.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.SharedTokenCacheCredential.#ctor">
+            <summary>
+            Creates a new <see cref="T:Azure.Identity.SharedTokenCacheCredential"/> which will authenticate users signed in through developer tools supporting Azure single sign on.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.SharedTokenCacheCredential.#ctor(Azure.Identity.SharedTokenCacheCredentialOptions)">
+            <summary>
+            Creates a new <see cref="T:Azure.Identity.SharedTokenCacheCredential"/> which will authenticate users signed in through developer tools supporting Azure single sign on.
+            </summary>
+            <param name="options">The client options for the newly created <see cref="T:Azure.Identity.SharedTokenCacheCredential"/></param>
+        </member>
+        <member name="M:Azure.Identity.SharedTokenCacheCredential.#ctor(System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates a new <see cref="T:Azure.Identity.SharedTokenCacheCredential"/> which will authenticate users signed in through developer tools supporting Azure single sign on.
+            </summary>
+            <param name="username">The username of the user to authenticate</param>
+            <param name="options">The client options for the newly created <see cref="T:Azure.Identity.SharedTokenCacheCredential"/></param>
+        </member>
+        <member name="M:Azure.Identity.SharedTokenCacheCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains an <see cref="T:Azure.Core.AccessToken"/> token for a user account silently if the user has already authenticated to another Microsoft application participating in SSO through a shared MSAL cache. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls</returns>
+        </member>
+        <member name="M:Azure.Identity.SharedTokenCacheCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains an <see cref="T:Azure.Core.AccessToken"/> token for a user account silently if the user has already authenticated to another Microsoft application participating in SSO through a shared MSAL cache. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls</returns>
+        </member>
+        <member name="T:Azure.Identity.SharedTokenCacheCredentialOptions">
+            <summary>
+            Options to configure the <see cref="T:Azure.Identity.SharedTokenCacheCredential"/> authentication.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.SharedTokenCacheCredentialOptions.Username">
+            <summary>
+            Specifies the preferred authentication account username, or UPN, to be retrieved from the shared token cache for single sign on authentication with
+            development tools, in the case multiple accounts are found in the shared token.
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.SharedTokenCacheCredentialOptions.TenantId">
+            <summary>
+            Specifies the tenant id of the preferred authentication account, to be retrieved from the shared token cache for single sign on authentication with
+            development tools, in the case multiple accounts are found in the shared token.
+            </summary>
+        </member>
+        <member name="T:Azure.Identity.TokenCredentialOptions">
+            <summary>
+            Options to configure requests made to the OAUTH identity service
+            </summary>
+        </member>
+        <member name="P:Azure.Identity.TokenCredentialOptions.AuthorityHost">
+            <summary>
+            The host of the Azure Active Directory authority.   The default is https://login.microsoftonline.com/
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.TokenCredentialOptions.#ctor">
+            <summary>
+            Creates an instance of <see cref="T:Azure.Identity.TokenCredentialOptions"/> with default settings.
+            </summary>
+        </member>
+        <member name="T:Azure.Identity.UsernamePasswordCredential">
+            <summary>
+             Enables authentication to Azure Active Directory using a user's  username and password. If the user has MFA enabled this
+             credential will fail to get a token throwing an <see cref="T:Azure.Identity.AuthenticationFailedException"/>. Also, this credential requires a high degree of
+             trust and is not recommended outside of prototyping when more secure credentials can be used.
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.UsernamePasswordCredential.#ctor">
+            <summary>
+            Protected constructor for mocking
+            </summary>
+        </member>
+        <member name="M:Azure.Identity.UsernamePasswordCredential.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Creates an instance of the <see cref="T:Azure.Identity.UsernamePasswordCredential"/> with the details needed to authenticate against Azure Active Directory with a simple username
+            and password.
+            </summary>
+            <param name="username"></param>
+            <param name="password">The user account's username, also known as UPN.</param>
+            <param name="tenantId">The Azure Active Directory tenant (directory) ID or name.</param>
+            <param name="clientId">The client (application) ID of an App Registration in the tenant.</param>
+        </member>
+        <member name="M:Azure.Identity.UsernamePasswordCredential.#ctor(System.String,System.String,System.String,System.String,Azure.Identity.TokenCredentialOptions)">
+            <summary>
+            Creates an instance of the <see cref="T:Azure.Identity.UsernamePasswordCredential"/> with the details needed to authenticate against Azure Active Directory with a simple username
+            and password.
+            </summary>
+            <param name="username"></param>
+            <param name="password">The user account's user name, UPN.</param>
+            <param name="tenantId">The Azure Active Directory tenant (directory) ID or name.</param>
+            <param name="clientId">The client (application) ID of an App Registration in the tenant.</param>
+            <param name="options">The client options for the newly created UsernamePasswordCredential</param>
+        </member>
+        <member name="M:Azure.Identity.UsernamePasswordCredential.GetToken(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token for a user account, authenticating them using the given username and password.  Note: This will fail with
+            an <see cref="T:Azure.Identity.AuthenticationFailedException"/> if the specified user account has MFA enabled. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="M:Azure.Identity.UsernamePasswordCredential.GetTokenAsync(Azure.Core.TokenRequestContext,System.Threading.CancellationToken)">
+            <summary>
+            Obtains a token for a user account, authenticating them using the given username and password.  Note: This will fail with
+            an <see cref="T:Azure.Identity.AuthenticationFailedException"/> if the specified user account has MFA enabled. This method is called by Azure SDK clients. It isn't intended for use in application code.
+            </summary>
+            <param name="requestContext">The details of the authentication request.</param>
+            <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken"/> controlling the request lifetime.</param>
+            <returns>An <see cref="T:Azure.Core.AccessToken"/> which can be used to authenticate service client calls.</returns>
+        </member>
+        <member name="T:Azure.Core.ArrayBufferWriter`1">
+            <summary>
+            Represents a heap-based, array-backed output sink into which <typeparam name="T"/> data can be written.
+            </summary>
+        </member>
+        <member name="M:Azure.Core.ArrayBufferWriter`1.#ctor">
+            <summary>
+            Creates an instance of an <see cref="T:Azure.Core.ArrayBufferWriter`1"/>, in which data can be written to,
+            with the default initial capacity.
+            </summary>
+        </member>
+        <member name="M:Azure.Core.ArrayBufferWriter`1.#ctor(System.Int32)">
+            <summary>
+            Creates an instance of an <see cref="T:Azure.Core.ArrayBufferWriter`1"/>, in which data can be written to,
+            with an initial capacity specified.
+            </summary>
+            <param name="initialCapacity">The minimum capacity with which to initialize the underlying buffer.</param>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <paramref name="initialCapacity"/> is not positive (i.e. less than or equal to 0).
+            </exception>
+        </member>
+        <member name="P:Azure.Core.ArrayBufferWriter`1.WrittenMemory">
+            <summary>
+            Returns the data written to the underlying buffer so far, as a <see cref="T:System.ReadOnlyMemory`1"/>.
+            </summary>
+        </member>
+        <member name="P:Azure.Core.ArrayBufferWriter`1.WrittenSpan">
+            <summary>
+            Returns the data written to the underlying buffer so far, as a <see cref="T:System.ReadOnlySpan`1"/>.
+            </summary>
+        </member>
+        <member name="P:Azure.Core.ArrayBufferWriter`1.WrittenCount">
+            <summary>
+            Returns the amount of data written to the underlying buffer so far.
+            </summary>
+        </member>
+        <member name="P:Azure.Core.ArrayBufferWriter`1.Capacity">
+            <summary>
+            Returns the total amount of space within the underlying buffer.
+            </summary>
+        </member>
+        <member name="P:Azure.Core.ArrayBufferWriter`1.FreeCapacity">
+            <summary>
+            Returns the amount of space available that can still be written into without forcing the underlying buffer to grow.
+            </summary>
+        </member>
+        <member name="M:Azure.Core.ArrayBufferWriter`1.Clear">
+            <summary>
+            Clears the data written to the underlying buffer.
+            </summary>
+            <remarks>
+            You must clear the <see cref="T:Azure.Core.ArrayBufferWriter`1"/> before trying to re-use it.
+            </remarks>
+        </member>
+        <member name="M:Azure.Core.ArrayBufferWriter`1.Advance(System.Int32)">
+            <summary>
+            Notifies <see cref="T:System.Buffers.IBufferWriter`1"/> that <paramref name="count"/> amount of data was written to the output <see cref="T:System.Span`1"/>/<see cref="T:System.Memory`1"/>.
+            </summary>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <paramref name="count"/> is negative.
+            </exception>
+            <exception cref="T:System.InvalidOperationException">
+            Thrown when attempting to advance past the end of the underlying buffer.
+            </exception>
+            <remarks>
+            You must request a new buffer after calling Advance to continue writing more data and cannot write to a previously acquired buffer.
+            </remarks>
+        </member>
+        <member name="M:Azure.Core.ArrayBufferWriter`1.GetMemory(System.Int32)">
+            <summary>
+            Returns a <see cref="T:System.Memory`1"/> to write to that is at least the requested length (specified by <paramref name="sizeHint"/>).
+            If no <paramref name="sizeHint"/> is provided (or it's equal to <code>0</code>), some non-empty buffer is returned.
+            </summary>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <paramref name="sizeHint"/> is negative.
+            </exception>
+            <remarks>
+            This will never return an empty <see cref="T:System.Memory`1"/>.
+            </remarks>
+            <remarks>
+            There is no guarantee that successive calls will return the same buffer or the same-sized buffer.
+            </remarks>
+            <remarks>
+            You must request a new buffer after calling Advance to continue writing more data and cannot write to a previously acquired buffer.
+            </remarks>
+        </member>
+        <member name="M:Azure.Core.ArrayBufferWriter`1.GetSpan(System.Int32)">
+            <summary>
+            Returns a <see cref="T:System.Span`1"/> to write to that is at least the requested length (specified by <paramref name="sizeHint"/>).
+            If no <paramref name="sizeHint"/> is provided (or it's equal to <code>0</code>), some non-empty buffer is returned.
+            </summary>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <paramref name="sizeHint"/> is negative.
+            </exception>
+            <remarks>
+            This will never return an empty <see cref="T:System.Span`1"/>.
+            </remarks>
+            <remarks>
+            There is no guarantee that successive calls will return the same buffer or the same-sized buffer.
+            </remarks>
+            <remarks>
+            You must request a new buffer after calling Advance to continue writing more data and cannot write to a previously acquired buffer.
+            </remarks>
+        </member>
+        <member name="T:Azure.Core.AzureResourceProviderNamespaceAttribute">
+            <summary>
+            This attribute should be set on all client assemblies with value of one of the resource providers
+            from the https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-services-resource-providers list.
+            </summary>
+        </member>
+        <member name="T:Azure.Core.Pipeline.ActivityExtensions">
+            <summary>
+            HACK HACK HACK. Some runtime environments like Azure.Functions downgrade System.Diagnostic.DiagnosticSource package version causing method not found exceptions in customer apps
+            This type is a temporary workaround to avoid the issue.
+            </summary>
+        </member>
+    </members>
+</doc>
