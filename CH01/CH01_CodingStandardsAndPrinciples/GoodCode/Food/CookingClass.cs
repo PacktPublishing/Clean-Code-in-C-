@@ -16,7 +16,7 @@ namespace CH01_CodingStandardsAndPrinciples.GoodCode.Food
         {
             _chef = chef;
             _chef.FoodCookingHandler += Chef_FoodCookingHandler;
-            _chef.FoodCookedHandler += Chef_FoodCookedHandler; ;
+            _chef.FoodCookedHandler += Chef_FoodCookedHandler;
             _chef.StartCooking();
         }
 
