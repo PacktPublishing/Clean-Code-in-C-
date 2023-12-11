@@ -28,3 +28,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.pdb
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe.config
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.pdb

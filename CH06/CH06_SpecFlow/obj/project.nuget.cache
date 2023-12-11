@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXzmlVw0ti/ke4YFpi4XRiDK3rqE0MQvZX8Q7nASft7QmV5nFz9zo6uqbXfLBB1GadpJ5DZIVLQHudSIPLDx9A==",
+  "dgSpecHash": "WRADP9OWTagpPSbCxmeHqbDfs3/6E/i2EXRJJdllrLpXxjqiR/pN0Q5nYQw5wyCoDFmDjtyh91amGLrkFjzInw==",
   "success": true,
-  "projectFilePath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj",
+  "projectFilePath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
@@ -10,7 +10,7 @@
     "C:\\Users\\jason\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.net.test.sdk\\15.0.0\\microsoft.net.test.sdk.15.0.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.testplatform.testhost\\15.0.0\\microsoft.testplatform.testhost.15.0.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\specflow\\3.1.80\\specflow.3.1.80.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\specflow.nunit\\3.1.80\\specflow.nunit.3.1.80.nupkg.sha512",

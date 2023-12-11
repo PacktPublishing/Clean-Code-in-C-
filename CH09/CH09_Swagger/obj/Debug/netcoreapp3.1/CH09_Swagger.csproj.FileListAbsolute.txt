@@ -91,3 +91,39 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.dll
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.pdb
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.genruntimeconfig.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\appsettings.json
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\CH09_Swagger.exe
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\CH09_Swagger.deps.json
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\CH09_Swagger.runtimeconfig.json
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\CH09_Swagger.runtimeconfig.dev.json
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\CH09_Swagger.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\CH09_Swagger.pdb
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.AssemblyInfoInputs.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.AssemblyInfo.cs
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.MvcApplicationPartsAssemblyInfo.cs
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.MvcApplicationPartsAssemblyInfo.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.sourcelink.json
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.RazorTargetAssemblyInfo.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\staticwebassets\CH09_Swagger.StaticWebAssets.Manifest.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\staticwebassets\CH09_Swagger.StaticWebAssets.Pack.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CH09_Swagger.Microsoft.AspNetCore.StaticWebAssets.props
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CH09_Swagger.props
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CH09_Swagger.props
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CH09_Swagger.props
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.csproj.CopyComplete
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.pdb
+D:\git\Clean-Code-in-C-\CH09\CH09_Swagger\obj\Debug\netcoreapp3.1\CH09_Swagger.genruntimeconfig.cache

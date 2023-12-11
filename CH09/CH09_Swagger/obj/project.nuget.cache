@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QlrGWpNGkspdxikrPo7kq+LdAFgl39/zMEA1dgWgYHWecEOR85eVtXw9XmmZ8u3Vis2zOQ9DmaQrSsLpzN20FA==",
+  "dgSpecHash": "2JU81sk13Kjeh/sW5ks1TsXWmGTQYfKQj+ywwLbMFoOQ5h0mDvoEKSFmtSRyV+DYcAz03X82faVTIMjin7TBnA==",
   "success": true,
-  "projectFilePath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH09\\CH09_Swagger\\CH09_Swagger.csproj",
+  "projectFilePath": "D:\\git\\Clean-Code-in-C-\\CH09\\CH09_Swagger\\CH09_Swagger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",

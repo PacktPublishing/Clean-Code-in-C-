@@ -82,3 +82,17 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.Co
 D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
 D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
 D:\_Book\Source Code\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache
+D:\git\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+D:\git\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+D:\git\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+D:\git\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+D:\git\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+D:\git\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.sourcelink.json
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+D:\git\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache

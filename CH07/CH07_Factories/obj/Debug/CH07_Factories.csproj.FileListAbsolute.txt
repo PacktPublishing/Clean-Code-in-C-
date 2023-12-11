@@ -23,3 +23,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factori
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe.config
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb

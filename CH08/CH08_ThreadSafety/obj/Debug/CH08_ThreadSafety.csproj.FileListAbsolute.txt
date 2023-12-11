@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_Thre
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\bin\Debug\CH08_ThreadSafety.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadSafety\obj\Debug\CH08_ThreadSafety.pdb

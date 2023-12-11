@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadloc
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\bin\Debug\CH08_Deadlocks.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Deadlocks\obj\Debug\CH08_Deadlocks.pdb

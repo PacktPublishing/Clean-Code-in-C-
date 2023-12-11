@@ -17,3 +17,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_Ra
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.pdb

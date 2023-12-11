@@ -28,3 +28,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Logon\bin\Debug\CH07_Logon.pdb
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\bin\Debug\CH07_Logon.exe.config
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\bin\Debug\CH07_Logon.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\bin\Debug\CH07_Logon.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Logon\obj\Debug\CH07_Logon.pdb

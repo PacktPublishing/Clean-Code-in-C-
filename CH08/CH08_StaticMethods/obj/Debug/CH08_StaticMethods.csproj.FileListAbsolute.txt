@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_Sta
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\bin\Debug\CH08_StaticMethods.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticMethods\obj\Debug\CH08_StaticMethods.pdb

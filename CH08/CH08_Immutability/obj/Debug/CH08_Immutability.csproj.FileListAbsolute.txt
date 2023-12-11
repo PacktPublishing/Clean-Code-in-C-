@@ -40,3 +40,21 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immu
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CopyComplete
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Buffers.dll
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Collections.Immutable.dll
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Memory.dll
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Numerics.Vectors.dll
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Buffers.xml
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Collections.Immutable.xml
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Memory.xml
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Numerics.Vectors.xml
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.csproj.CopyComplete
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.pdb

@@ -15,3 +15,9 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.dll
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection\bin\Debug\CH07_DependencyInjection.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection\bin\Debug\CH07_DependencyInjection.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection\obj\Debug\CH07_DependencyInjection.pdb

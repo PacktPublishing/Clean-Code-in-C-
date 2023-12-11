@@ -50,3 +50,14 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csproj.CopyComplete
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\CH06_FailPassRefactor.exe.config
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\CH06_FailPassRefactor.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\CH06_FailPassRefactor.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\nunit.framework.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\nunit.framework.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\nunit.framework.xml
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csproj.CopyComplete
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.pdb

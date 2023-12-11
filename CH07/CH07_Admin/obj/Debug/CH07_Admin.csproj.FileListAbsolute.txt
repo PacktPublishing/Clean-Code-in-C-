@@ -28,3 +28,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.pdb
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\bin\Debug\CH07_Admin.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.exe
+D:\git\Clean-Code-in-C-\CH07\CH07_Admin\obj\Debug\CH07_Admin.pdb

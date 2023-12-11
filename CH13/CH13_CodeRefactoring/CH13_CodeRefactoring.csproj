@@ -97,7 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\CH11\CrossCuttingConcerns\CrossCuttingConcerns\CrossCuttingConcerns.csproj">
-      <Project>{f4658c89-69f4-42fd-8e6e-a5983ec65668}</Project>
+      <Project>{079d8c3d-7ed4-4ee9-bbef-1aab58c0978b}</Project>
       <Name>CrossCuttingConcerns</Name>
     </ProjectReference>
   </ItemGroup>

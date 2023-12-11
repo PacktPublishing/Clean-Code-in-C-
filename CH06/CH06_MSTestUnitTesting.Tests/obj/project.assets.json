@@ -12,12 +12,20 @@
       "MSTest.TestFramework/2.1.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         }
       },
       "CH06_MSTestUnitTesting/1.0.0": {
@@ -41,12 +49,57 @@
       "MSTest.TestFramework/2.1.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
+        }
+      },
+      "CH06_MSTestUnitTesting/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CH06_MSTestUnitTesting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CH06_MSTestUnitTesting.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "MSTest.TestAdapter/2.1.2": {
+        "type": "package",
+        "build": {
+          "build/net45/MSTest.TestAdapter.props": {},
+          "build/net45/MSTest.TestAdapter.targets": {}
+        }
+      },
+      "MSTest.TestFramework/2.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         }
       },
       "CH06_MSTestUnitTesting/1.0.0": {
@@ -70,12 +123,20 @@
       "MSTest.TestFramework/2.1.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         }
       },
       "CH06_MSTestUnitTesting/1.0.0": {
@@ -99,12 +160,20 @@
       "MSTest.TestFramework/2.1.2": {
         "type": "package",
         "compile": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         },
         "runtime": {
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
-          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "related": ".XML"
+          },
+          "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "related": ".Extensions.XML;.XML"
+          }
         }
       },
       "CH06_MSTestUnitTesting/1.0.0": {
@@ -298,38 +367,43 @@
   },
   "packageFolders": {
     "C:\\Users\\jason\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\22.1.34\\ToolboxNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
-      "projectName": "CH06_MSTestUnitTesting.Tests",
-      "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
+      "projectUniqueName": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
+      "projectName": "CH05_MSTestUnitTesting.Tests",
+      "projectPath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH06_MSTestUnitTesting.Tests.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\obj\\",
+      "outputPath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\22.1.34\\ToolboxNuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
       ],
       "originalTargetFrameworks": [
         "net48"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\MAUI\\22.1.34\\MAUI\\nuget": {},
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\22.1.34\\NuGetPackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net48": {
           "projectReferences": {
-            "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
-              "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
+            "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
+              "projectPath": "D:\\git\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
             }
           }
         }
@@ -351,6 +425,9 @@
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {

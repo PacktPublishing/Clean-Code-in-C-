@@ -15,3 +15,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_NUnitTesting\bin\Debug\CH06_NUni
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\bin\Debug\CH06_NUnitTesting.exe.config
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\bin\Debug\CH06_NUnitTesting.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\bin\Debug\CH06_NUnitTesting.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.pdb

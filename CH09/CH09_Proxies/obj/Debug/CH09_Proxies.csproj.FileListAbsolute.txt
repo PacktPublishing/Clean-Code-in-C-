@@ -17,3 +17,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.c
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.pdb
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe.config
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.exe
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\bin\Debug\CH09_Proxies.pdb
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.exe
+D:\git\Clean-Code-in-C-\CH09\CH09_Proxies\obj\Debug\CH09_Proxies.pdb

@@ -17,3 +17,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\bin\Debug\CH08_GeneralRecommendations.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_GeneralRecommendations\obj\Debug\CH08_GeneralRecommendations.pdb

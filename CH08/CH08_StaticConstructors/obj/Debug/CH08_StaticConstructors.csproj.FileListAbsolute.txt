@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH0
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\bin\Debug\CH08_StaticConstructors.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_StaticConstructors\obj\Debug\CH08_StaticConstructors.pdb

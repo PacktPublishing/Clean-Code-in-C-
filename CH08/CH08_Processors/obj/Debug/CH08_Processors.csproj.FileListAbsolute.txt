@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Proces
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.pdb

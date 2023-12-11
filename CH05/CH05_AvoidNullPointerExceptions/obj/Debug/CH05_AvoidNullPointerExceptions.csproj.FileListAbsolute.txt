@@ -32,3 +32,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\D
 D:\_Book\Source Code\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.pdb
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.exe.config
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.exe
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.pdb
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.exe
+D:\git\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.pdb

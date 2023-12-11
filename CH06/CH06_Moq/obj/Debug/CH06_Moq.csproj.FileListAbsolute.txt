@@ -86,3 +86,21 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.Co
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.CopyComplete
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\NUnit3.TestAdapter.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\NUnit3.TestAdapter.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\nunit.engine.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\nunit.engine.api.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\CH06_Moq.exe.config
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\CH06_Moq.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\CH06_Moq.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\Castle.Core.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\Moq.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\nunit.framework.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\nunit.framework.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.CopyComplete
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.pdb

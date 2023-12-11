@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutabi
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\bin\Debug\CH08_Mutability.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_Mutability\obj\Debug\CH08_Mutability.pdb

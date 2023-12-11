@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_Thre
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_ThreadsIntro.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_ThreadsIntro.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_ThreadsIntro.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.pdb

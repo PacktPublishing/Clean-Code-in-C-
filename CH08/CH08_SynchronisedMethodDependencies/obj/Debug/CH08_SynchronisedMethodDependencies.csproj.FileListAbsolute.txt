@@ -16,3 +16,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\b
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe.config
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\bin\Debug\CH08_SynchronisedMethodDependencies.pdb
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.exe
+D:\git\Clean-Code-in-C-\CH08\CH08_SynchronisedMethodDependencies\obj\Debug\CH08_SynchronisedMethodDependencies.pdb

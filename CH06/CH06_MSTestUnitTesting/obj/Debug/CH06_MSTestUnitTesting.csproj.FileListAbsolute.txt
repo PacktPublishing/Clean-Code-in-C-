@@ -17,3 +17,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe.config
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.exe
+D:\git\Clean-Code-in-C-\CH06\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.pdb

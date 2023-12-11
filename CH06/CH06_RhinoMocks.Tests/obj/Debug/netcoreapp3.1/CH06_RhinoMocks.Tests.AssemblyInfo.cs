@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CH06_RhinoMocks.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d17d525ecc60d99793aca8f2c9da270a04d0ae7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CH06_RhinoMocks.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CH06_RhinoMocks.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

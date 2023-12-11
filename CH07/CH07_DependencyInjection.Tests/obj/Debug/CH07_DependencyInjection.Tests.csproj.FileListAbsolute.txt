@@ -46,3 +46,19 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\De
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.CopyComplete
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.dll
 D:\_Book\Source Code\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.Tests.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.Tests.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\CH07_DependencyInjection.pdb
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.CopyComplete
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.dll
+D:\git\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.pdb

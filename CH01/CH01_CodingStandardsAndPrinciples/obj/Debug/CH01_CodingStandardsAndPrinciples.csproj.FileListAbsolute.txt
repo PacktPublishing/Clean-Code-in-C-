@@ -22,3 +22,10 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin
 D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.pdb
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe.config
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.exe
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\bin\Debug\CH01_CodingStandardsAndPrinciples.pdb
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.exe
+D:\git\Clean-Code-in-C-\CH01\CH01_CodingStandardsAndPrinciples\obj\Debug\CH01_CodingStandardsAndPrinciples.pdb

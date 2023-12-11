@@ -58,3 +58,23 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlCl
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CopyComplete
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.pdb
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe.config
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.exe
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\CH09_RamlClient.pdb
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\RAML.Api.Core.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.ComponentModel.Annotations.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.dll
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\Newtonsoft.Json.xml
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Extensions.xml
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Net.Http.Primitives.xml
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\bin\Debug\System.Web.Http.xml
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.csproj.CopyComplete
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.exe
+D:\git\Clean-Code-in-C-\CH09\CH09_RamlClient\obj\Debug\CH09_RamlClient.pdb

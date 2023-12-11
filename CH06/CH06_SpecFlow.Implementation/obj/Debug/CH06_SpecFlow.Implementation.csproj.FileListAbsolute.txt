@@ -23,3 +23,9 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debu
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csproj.CoreCompileInputs.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
 D:\_Book\Source Code\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+D:\git\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+D:\git\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb

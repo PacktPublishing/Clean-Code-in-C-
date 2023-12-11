@@ -24,3 +24,9 @@ D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
 D:\_Book\Source Code\Clean-Code-in-C-\CH04\bin\Debug\CH4.exe
 D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
 D:\_Book\Source Code\Clean-Code-in-C-\CH04\obj\Debug\CH4.exe
+D:\git\Clean-Code-in-C-\CH04\bin\Debug\CH4.exe
+D:\git\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+D:\git\Clean-Code-in-C-\CH04\obj\Debug\CH4.csproj.AssemblyReference.cache
+D:\git\Clean-Code-in-C-\CH04\obj\Debug\CH4.csproj.CoreCompileInputs.cache
+D:\git\Clean-Code-in-C-\CH04\obj\Debug\CH4.exe
+D:\git\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
