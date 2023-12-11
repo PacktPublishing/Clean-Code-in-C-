@@ -10,7 +10,7 @@
     <PackageReference Include="Microsoft.OpenApi" Version="1.1.4" />
     <PackageReference Include="RAML.NetCoreAPIExplorer" Version="0.1.0" />
     <PackageReference Include="RAML.Parser.Expressions" Version="0.0.2" />
-    <PackageReference Include="RestSharp" Version="106.11.4" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.4.1" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.4.1" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
